@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-You just met **Chris Nzoka-okoye**
+This is **Chris Nzoka-okoye**
 
 An IT specialist, technical writer and software engineer to be.
 
