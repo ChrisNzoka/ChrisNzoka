@@ -1,6 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 
-**I am Chris Nzoka-okoye**
+You just met **Chris Nzoka-okoye**
+
 An IT specialist, technical writer and software engineer to be.
 
 - 🔭 I’m currently working on several projects to boost my programming knowledge...
