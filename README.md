@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **I am Chris Nzoka-okoye**
 An IT specialist, technical writer and software engineer to be.
 
@@ -11,4 +10,3 @@ An IT specialist, technical writer and software engineer to be.
 - 📫 How to reach me: https://linktr.ee/chrisnzoka...
 - 😄 Pronouns: WE, US, OUR, and other appropriate ones...
 - ⚡ Fun fact: I am a chelse fan, who loves programming and travelling...
--->
