@@ -2,7 +2,7 @@
 
 This is **Chris Nzoka-okoye**
 
-An IT specialist, technical writer and software engineer to be.
+An IT specialist, technical writer and a working software engineer.
 
 - 🔭 I’m currently working on several projects to boost my programming knowledge...
 - 🌱 I’m currently learning backend engineering with alx-africa, sidehustle and freecodecamp...
