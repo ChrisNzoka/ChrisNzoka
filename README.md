@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm [Chris Nzoka-okoye](https://linktr.ee/chrisnzoka).
 
-I am an IT specialist, Technical writer, Software engineer and DevOps enthusiat. I am currently learning and developing my skillset in Python, Django and DevOps with courses like [IBM Devops and software engineering professional course](), et cetera. I am also working on projects in Python, Django, FastApi, and several automation tools.
+I am an IT specialist, Technical writer, Software engineer and DevOps enthusiat. I am currently learning and developing my skillset in Python, Django and DevOps with courses like [IBM Devops and software engineering professional course](), et cetera. I am also working on projects in Python, Django, FastAPI, REST and several automation tools.
 I write technical articles on [Hashnode](https://chrisnzoka.hashnode.dev) and [Medium](https://chrisnzoka.medium.com).
 
 **MILESTONES**:
@@ -42,7 +42,7 @@ I write technical articles on [Hashnode](https://chrisnzoka.hashnode.dev) and [M
 </p>
 </div>
   
-## Contact me [here](https://linktr.ee/chrisnzoka)
+## [Contact me](https://linktr.ee/chrisnzoka)
   
   
 <!--
