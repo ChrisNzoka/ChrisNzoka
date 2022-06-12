@@ -1,4 +1,5 @@
 ### Hi there, I'm [Chris Nzoka-okoye](https://linktr.ee/chrisnzoka)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">
+
 <br/>
 I am an IT support specialist, Linux SysAdmin and Technical writer.
 
@@ -8,12 +9,13 @@ I am an IT support specialist, Linux SysAdmin and Technical writer.
 - [AltSchool Africa school of engineering]()
 - [Linux system admnistrator scholarship with Linux foundation](), et cetera.
 
+<div align="center">
 <p> 
-  <a href="https://twitter.com/chrisnzoka" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/chris-nzoka-okoye/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="https://chrisnzoka.medium.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://chrisnzoka.hashnode.dev" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/twitter-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white" /></a>
-</p>
+  <a href="https://twitter.com/chrisnzoka" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=plastic&logo=twitter&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/chris-nzoka-okoye/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://chrisnzoka.medium.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=plastic&logo=medium&logoColor=white" /></a>
+  <a href="https://chrisnzoka.hashnode.dev" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/hashnode-%232962FF.svg?&style=plastic&logo=hashnode&logoColor=white" />
+  </div>
 
 ---
 
@@ -76,20 +78,19 @@ I am an IT support specialist, Linux SysAdmin and Technical writer.
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 -->
+<!--
 <div align="center">
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=ChrisNzoka&show_icons=true&theme=jolly&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisNzoka&langs_count=8&theme=jolly&layout=compact" />
-</a> -->
-
-
+</a>
 </div>
-  
+-->
+
 ## [Contact me](https://linktr.ee/chrisnzoka)
-  
-  
+
 <!--
 Here are some ideas to get you started:
 
