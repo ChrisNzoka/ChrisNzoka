@@ -3,14 +3,14 @@
   <a href="https://www.linkedin.com/in/chris-nzoka-okoye/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a> 
   <a href="https://chrisnzoka.medium.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white" /></a>
   <a href="https://chrisnzoka.hashnode.dev" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/hashnode-%232962FF.svg?&style=flat&logo=hashnode&logoColor=white" /></a>
+<br/>
 
----
-I am an IT support specialist, Linux SysAdmin and Technical writer.
-**🌱** I’m currently learning and developing my skillset in DevOps and Software Engineering with;
-
-- [IBM Devops and software engineering professional course]()
-- [AltSchool Africa school of engineering]()
-- [Linux system admnistrator scholarship with Linux foundation](), et cetera.
+**🌱** I am an IT support specialist, Linux SysAdmin and Technical writer.
+I’m currently learning and developing my skillset in DevOps and Software Engineering with;
+- [IBM Devops and software engineering professional course](https://www.coursera.org/professional-certificates/devops-and-software-engineering)
+- [AltSchool Africa school of engineering](https://altschoolafrica.com/)
+- [Linux system admnistrator scholarship with The Linux foundation](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/),
+- [Learn to cloud guide](https://learntocloud.guide/#/)
 ---
 
 ### Languages and tools ⚙️
