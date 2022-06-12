@@ -33,11 +33,11 @@ I’m currently learning and developing my skillset in DevOps and Software Engin
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Linux commands I use as a Cloud and DevOps Engineer]()
-- [What Is DevOps? What does a DevOps Engineer do?]()
-- [Installing Grafana and serving via Nginx as reverse proxy]()
-- [AZ-104 Study Guide: Azure Administrator]()
-- [A Cloud Guru Azure Resume Challenge 2021]()
+- [Linux commands for checking how much space is left on a disk](https://chrisnzoka.hashnode.dev/linux-commands-for-checking-how-much-space-is-left-on-a-disk)
+- [Linux File Permissions](https://chrisnzoka.hashnode.dev/linux-file-permissions)
+- [Operating Systems: The Key Knowledge of the Power User](https://chrisnzoka.hashnode.dev/operating-systems-components-functions-boot-process)
+- [How to Dual Boot Linux on Windows 10](https://chrisnzoka.hashnode.dev/how-to-install-boot-linux-on-windows-10)
+- [How to fix read only USB drive in Ubuntu](https://chrisnzoka.medium.com/how-to-fix-read-only-usb-drive-in-ubuntu-84766a854751)
   <!-- BLOG-POST-LIST:END -->
   ▶️ [more blog posts...](https://chrisnzoka.hashnode.dev)
 
