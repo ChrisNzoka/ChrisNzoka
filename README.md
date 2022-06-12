@@ -1,27 +1,35 @@
-### Hi there, I'm [Chris Nzoka-okoye](https://) 👋
+### Hi there, I'm [Chris Nzoka-okoye](https://)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
+
+<br/>
 
 I am an IT support specialist, Linux SysAdmin and Technical writer.
 
-**🌱** I’m currently learning and developing my skillset in DevOps and Software Engineering  with;
+**🌱** I’m currently learning and developing my skillset in DevOps and Software Engineering with;
+
 - [IBM Devops and software engineering professional course]()
 - [AltSchool Africa school of engineering]()
 - [Linux system admnistrator scholarship with Linux foundation](), et cetera.
 
 ---
+
 ### Languages and tools ⚙️
 
 ---
+
 ### 📕 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
+
 - [Linux commands I use as a Cloud and DevOps Engineer]()
 - [What Is DevOps? What does a DevOps Engineer do?]()
 - [Installing Grafana and serving via Nginx as reverse proxy]()
 - [AZ-104 Study Guide: Azure Administrator]()
 - [A Cloud Guru Azure Resume Challenge 2021]()
-<!-- BLOG-POST-LIST:END -->
-▶️ [more blog posts...](https://chrisnzoka.hashnode.dev)
+  <!-- BLOG-POST-LIST:END -->
+  ▶️ [more blog posts...](https://chrisnzoka.hashnode.dev)
 
 ---
+
 ### My Github Stats 📊
 
 [![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -29,8 +37,11 @@ I am an IT support specialist, Linux SysAdmin and Technical writer.
 [![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ---
+
 ### ✨ My Recent Activity
+
 <!--START_SECTION:activity-->
+
 1. ❗️ Opened issue [#29](https://github.com/learntocloud/learn-to-cloud/issues/29) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
 2. 🗣 Commented on [#28](https://github.com/learntocloud/learn-to-cloud/issues/28) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
 3. 🎉 Merged PR [#23](https://github.com/learntocloud/learn-to-cloud/pull/23) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
@@ -39,14 +50,12 @@ I am an IT support specialist, Linux SysAdmin and Technical writer.
 <!--END_SECTION:activity-->
 
 ---
+
 ### Books I've Read
 
 ---
 
 **🔭** I’m currently working on ...
-
-
-
 
 <!--
 <div align="center">
@@ -84,12 +93,10 @@ I am an IT support specialist, Linux SysAdmin and Technical writer.
 <!--
 Here are some ideas to get you started:
 
-
-
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
