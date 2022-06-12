@@ -38,7 +38,7 @@ I’m currently learning and developing my skillset in DevOps and Software Engin
 - [Operating Systems: The Key Knowledge of the Power User](https://chrisnzoka.hashnode.dev/operating-systems-components-functions-boot-process)
 - [How to Dual Boot Linux on Windows 10](https://chrisnzoka.hashnode.dev/how-to-install-boot-linux-on-windows-10)
 - [How to fix read only USB drive in Ubuntu](https://chrisnzoka.medium.com/how-to-fix-read-only-usb-drive-in-ubuntu-84766a854751)
-  ▶️ [more blog posts...](https://chrisnzoka.hashnode.dev)
+- ▶️ [more blog posts...](https://chrisnzoka.hashnode.dev)
   <!-- BLOG-POST-LIST:END -->
 
 ---
