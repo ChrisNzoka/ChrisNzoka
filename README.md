@@ -1,15 +1,51 @@
-## 👋 Hi there, I'm [Chris Nzoka-okoye](https://linktr.ee/chrisnzoka).
+### Hi there, I'm [Chris Nzoka-okoye](https://) 👋
 
-I am an IT specialist, Technical writer, Software engineer and DevOps enthusiat. I am currently learning and developing my skillset in Python, Django and DevOps with courses like [IBM Devops and software engineering professional course](), et cetera. I am also working on projects in Python, Django, FastAPI, REST and several automation tools.
-I write technical articles on [Hashnode](https://chrisnzoka.hashnode.dev) and [Medium](https://chrisnzoka.medium.com).
+I am an IT support specialist, Linux SysAdmin and Technical writer.
 
-**MILESTONES**:
-- **December 2021**: Completed Introduction to Computer Science and Programming by University of London on Cousera. [Certificate]()
-- **January 2022**: Completed Technical Writing Course by Moscow Institute of Physics and Technology (MIPT) on [Cousera]().
-- **February 2022**: Enrolled for Software Engineering with [Alx_Africa]() and [Holberton]().
-- **February 2022**: Learnt HTML and CSS on [Freecodecamp](https://www.freecodecamp.org)
-- **March 2022**: Started learning C programming language with [Alx_Africa]()
-- **April 2022**: Completed the Google IT support professional Certificate. [Certificate]()
+**🌱** I’m currently learning and developing my skillset in DevOps and Software Engineering  with;
+- [IBM Devops and software engineering professional course]()
+- [AltSchool Africa school of engineering]()
+- [Linux system admnistrator scholarship with Linux foundation](), et cetera.
+
+---
+### Languages and tools ⚙️
+
+---
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Linux commands I use as a Cloud and DevOps Engineer]()
+- [What Is DevOps? What does a DevOps Engineer do?]()
+- [Installing Grafana and serving via Nginx as reverse proxy]()
+- [AZ-104 Study Guide: Azure Administrator]()
+- [A Cloud Guru Azure Resume Challenge 2021]()
+<!-- BLOG-POST-LIST:END -->
+▶️ [more blog posts...](https://chrisnzoka.hashnode.dev)
+
+---
+### My Github Stats 📊
+
+[![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+---
+### ✨ My Recent Activity
+<!--START_SECTION:activity-->
+1. ❗️ Opened issue [#29](https://github.com/learntocloud/learn-to-cloud/issues/29) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+2. 🗣 Commented on [#28](https://github.com/learntocloud/learn-to-cloud/issues/28) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+3. 🎉 Merged PR [#23](https://github.com/learntocloud/learn-to-cloud/pull/23) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+4. 🗣 Commented on [#23](https://github.com/learntocloud/learn-to-cloud/issues/23) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+5. 💪 Opened PR [#23](https://github.com/learntocloud/learn-to-cloud/pull/23) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+<!--END_SECTION:activity-->
+
+---
+### Books I've Read
+
+---
+
+**🔭** I’m currently working on ...
+
+
 
 
 <!--
@@ -48,8 +84,8 @@ I write technical articles on [Hashnode](https://chrisnzoka.hashnode.dev) and [M
 <!--
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
