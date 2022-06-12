@@ -1,4 +1,4 @@
-### Hi there, I'm [Chris Nzoka-okoye](https://)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
+### Hi there, I'm [Chris Nzoka-okoye](https://)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">
 
 <br/>
 
