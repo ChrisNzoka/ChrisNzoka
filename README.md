@@ -1,22 +1,26 @@
 ### Hi there, I'm [Chris Nzoka-okoye](https://linktr.ee/chrisnzoka) 👋
-  <a href="https://twitter.com/chrisnzoka" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/chris-nzoka-okoye/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a> 
-  <a href="https://chrisnzoka.medium.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white" /></a>
-  <a href="https://chrisnzoka.hashnode.dev" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/hashnode-%232962FF.svg?&style=flat&logo=hashnode&logoColor=white" /></a>
+
+<a href="https://twitter.com/chrisnzoka" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/chris-nzoka-okoye/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="https://chrisnzoka.medium.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white" /></a>
+<a href="https://chrisnzoka.hashnode.dev" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/hashnode-%232962FF.svg?&style=flat&logo=hashnode&logoColor=white" /></a>
 <br/>
 
 **🌱** I am an IT support specialist, Linux SysAdmin and Technical writer.
 I’m currently learning and developing my skillset in DevOps and Software Engineering with;
+
 - [IBM Devops and software engineering professional course](https://www.coursera.org/professional-certificates/devops-and-software-engineering)
 - [AltSchool Africa school of engineering](https://altschoolafrica.com/)
 - [Linux system admnistrator scholarship with The Linux foundation](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/),
 - [Learn to cloud guide](https://learntocloud.guide/#/)
+
 ---
 
 ### Languages and tools ⚙️
+
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <p>
-<img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://www.svgrepo.com/show/303263/css3-logo.svg" alt="CS3 Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/> <img src="https://www.svgrepo.com/show/354237/pycharm.svg" alt="Pycharm" width="50" height="50"/>
+<img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://www.svgrepo.com/show/303263/css3-logo.svg" alt="CS3 Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/> <img src="https://www.svgrepo.com/show/354237/pycharm.svg" alt="Pycharm" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logo/wordpress-icon.svg" alt="wordpress icon" width="50" height="50"/> <img src="./ChrisNzoka/svg/Jira_(software)-Core-Logo.wine.svg" alt="" width="50" height="50"/>
 <!-- 
 -------------------------------------- UNCOMMENT AS I LEARN ----------------------------------------
 <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform Logo" width="50" height="50"/>
