@@ -50,13 +50,16 @@ I’m currently learning and developing my skillset in DevOps and Software Engin
 ---
 
 ### ✨ My Recent Activity
+
+- 
 <!--END_SECTION:activity-->
 
-### Books I've Read
-
+### 📕 Current Reads
+<!-- Start Books -->
+- [The Phoenix Project _ A Novel about IT, DevOps, and Helping Your Business Win](./Books_and_Documents/The%20Phoenix%20Project%20_%20A%20Novel%20about%20IT%2C%20DevOps%2C%20and%20Helping%20Your%20Business%20Win%20(%20PDFDrive%20).pdf)
+<!-- End Books -->
 ---
 
-**🔭** I’m currently working on ...
 
 <!--
 <div align="center">
@@ -81,13 +84,10 @@ I’m currently learning and developing my skillset in DevOps and Software Engin
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisNzoka&langs_count=8&theme=jolly&layout=compact" />
 </a>
 </div>
--->
 
-## [Contact me](https://linktr.ee/chrisnzoka)
-
-<!--
 Here are some ideas to get you started:
 
+- 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
