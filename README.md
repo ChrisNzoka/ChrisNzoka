@@ -59,6 +59,7 @@ and follow the guide -->
 - Completed the [Google IT Supporty professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LBPB93VBA5FP)
 - Completed [Technical Writing by Moscow Institute of Physics and Technology](https://www.coursera.org/account/accomplishments/verify/DJDLDXKMT6L7)
 <!--END_SECTION:activity-->
+---
 
 ### 📕 Current Reads
 <!-- Start Books -->
@@ -67,7 +68,6 @@ and follow the guide -->
 - [The Feynman Technique_ The Best Way to Learn Anything - Farnam Street](./Books_and_Documents/The%20Feynman%20Technique_%20The%20Best%20Way%20to%20Learn%20Anything%20-%20Farnam%20Street.pdf)
 - [Sams teach yourself C in 24 hours-Tony Zhang, John Southmayd (2000)](./Books_and_Documents/Sams%20teach%20yourself%20C%20in%2024%20hours-Tony%20Zhang%2C%20John%20Southmayd%20(2000).pdf)
 <!-- End Books -->
----
 
 
 <!--
