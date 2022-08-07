@@ -1,22 +1,21 @@
-### 👋 Hi there, I'm [Chris Nzoka-okoye](https://linktr.ee/chrisnzoka) 
+### 👋 Hi there, I'm [Chris Nzoka-okoye](https://linktr.ee/chrisnzoka)
 
 <a href="https://twitter.com/chrisnzoka" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/chris-nzoka-okoye/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="https://chrisnzoka.medium.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white" /></a>
 <a href="https://chrisnzoka.hashnode.dev" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/hashnode-%232962FF.svg?&style=flat&logo=hashnode&logoColor=white" /></a>
 <br/>
 
-I am an IT support specialist, Linux SysAdmin and Technical writer.
-I’m currently learning and developing my skillset in DevOps and Software Engineering with;
+I am an IT Support Specialist, Data Entry Specialist and Technical writer.
+I’m currently learning and developing my skills in Data Analysis and Business Intelligence with;
 
-- [IBM Devops and software engineering professional course](https://www.coursera.org/professional-certificates/devops-and-software-engineering)
-- [AltSchool Africa school of engineering](https://altschoolafrica.com/)
-- [Linux system admnistrator scholarship with The Linux foundation](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/),
-- [Learn to cloud guide](https://learntocloud.guide/#/)
+- [Google Data Analytics Professsional Certificate](https://www.coursera.org/professional-certificates/devops-and-software-engineering)
+- [Excel Skills for Data Visualisation: University of Macquire](https://www.coursera.org/specializations/excel-data-analytics-visualization)
+- [IBM Data Analytics Professional Certificate](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/),
+- [Master of Science in Data Analytics: Robert Kenedy College](https://www.rkc.swiss/online-msc-data-analytics)
 
 ---
 
-### ⚙ ️Languages and tools 
+### ⚙ ️Languages and tools
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <p>
@@ -32,6 +31,7 @@ I’m currently learning and developing my skillset in DevOps and Software Engin
 ---
 
 ### 📕 Latest Blog Posts
+
 <!-- To get your github stats to look like mine,
 visit- https://github.com/vn7n24fzkq/github-profile-summary-cards
 and follow the guide -->
@@ -48,9 +48,11 @@ and follow the guide -->
 ---
 
 ### 📊 My Github Stats
+
 [![](https://raw.githubusercontent.com/ChrisNzoka/ChrisNzoka/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ChrisNzoka/ChrisNzoka/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ChrisNzoka/ChrisNzoka/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ChrisNzoka/ChrisNzoka/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ChrisNzoka/ChrisNzoka/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 ---
 
 ### ✨ My Recent Project and Activity
@@ -59,16 +61,18 @@ and follow the guide -->
 - Completed the [Google IT Supporty professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LBPB93VBA5FP)
 - Completed [Technical Writing by Moscow Institute of Physics and Technology](https://www.coursera.org/account/accomplishments/verify/DJDLDXKMT6L7)
 <!--END_SECTION:activity-->
+
 ---
 
 ### 📕 Current Reads
-<!-- Start Books -->
-- [The Phoenix Project _ A Novel about IT, DevOps, and Helping Your Business Win](./Books_and_Documents/The%20Phoenix%20Project%20_%20A%20Novel%20about%20IT%2C%20DevOps%2C%20and%20Helping%20Your%20Business%20Win%20(%20PDFDrive%20).pdf)
-- [The_Linux_Command_Line_by_William_Shotts](./Books_and_Documents/The_Linux_Command_Line_by_William_Shotts.pdf)
-- [The Feynman Technique_ The Best Way to Learn Anything - Farnam Street](./Books_and_Documents/The%20Feynman%20Technique_%20The%20Best%20Way%20to%20Learn%20Anything%20-%20Farnam%20Street.pdf)
-- [Sams teach yourself C in 24 hours-Tony Zhang, John Southmayd (2000)](./Books_and_Documents/Sams%20teach%20yourself%20C%20in%2024%20hours-Tony%20Zhang%2C%20John%20Southmayd%20(2000).pdf)
-<!-- End Books -->
 
+<!-- Start Books -->
+
+- [The Phoenix Project \_ A Novel about IT, DevOps, and Helping Your Business Win](<./Books_and_Documents/The%20Phoenix%20Project%20_%20A%20Novel%20about%20IT%2C%20DevOps%2C%20and%20Helping%20Your%20Business%20Win%20(%20PDFDrive%20).pdf>)
+- [The_Linux_Command_Line_by_William_Shotts](./Books_and_Documents/The_Linux_Command_Line_by_William_Shotts.pdf)
+- [The Feynman Technique\_ The Best Way to Learn Anything - Farnam Street](./Books_and_Documents/The%20Feynman%20Technique_%20The%20Best%20Way%20to%20Learn%20Anything%20-%20Farnam%20Street.pdf)
+- [Sams teach yourself C in 24 hours-Tony Zhang, John Southmayd (2000)](<./Books_and_Documents/Sams%20teach%20yourself%20C%20in%2024%20hours-Tony%20Zhang%2C%20John%20Southmayd%20(2000).pdf>)
+<!-- End Books -->
 
 <!--
 <div align="center">
