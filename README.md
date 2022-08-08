@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm [Chris Nzoka-okoye](https://linktr.ee/chrisnzoka)
+### 👋 Hi there, I'm [Chris Nzoka-okoye](https://linkedin.com/in/chris-nzoka-okoye)
 
 <a href="https://twitter.com/chrisnzoka" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/chris-nzoka-okoye/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
@@ -58,8 +58,8 @@ and follow the guide -->
 ### ✨ My Recent Project and Activity
 
 - Developed a [personal portfolio](https://myprofile.chrisnzoka-okoy.repl.co) on Replit
-- Completed the [Google IT Supporty professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LBPB93VBA5FP)
-- Completed [Technical Writing by Moscow Institute of Physics and Technology](https://www.coursera.org/account/accomplishments/verify/DJDLDXKMT6L7)
+- Completed the [Google IT Support professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LBPB93VBA5FP)
+- Completed [Technical Writing: Moscow Institute of Physics and Technology](https://www.coursera.org/account/accomplishments/verify/DJDLDXKMT6L7)
 <!--END_SECTION:activity-->
 
 ---
@@ -68,10 +68,10 @@ and follow the guide -->
 
 <!-- Start Books -->
 
+- [SQL and Relational Theory\_ How to Write Accurate SQL Code, 2nd Edition]()
 - [The Phoenix Project \_ A Novel about IT, DevOps, and Helping Your Business Win](<./Books_and_Documents/The%20Phoenix%20Project%20_%20A%20Novel%20about%20IT%2C%20DevOps%2C%20and%20Helping%20Your%20Business%20Win%20(%20PDFDrive%20).pdf>)
 - [The_Linux_Command_Line_by_William_Shotts](./Books_and_Documents/The_Linux_Command_Line_by_William_Shotts.pdf)
 - [The Feynman Technique\_ The Best Way to Learn Anything - Farnam Street](./Books_and_Documents/The%20Feynman%20Technique_%20The%20Best%20Way%20to%20Learn%20Anything%20-%20Farnam%20Street.pdf)
-- [Sams teach yourself C in 24 hours-Tony Zhang, John Southmayd (2000)](<./Books_and_Documents/Sams%20teach%20yourself%20C%20in%2024%20hours-Tony%20Zhang%2C%20John%20Southmayd%20(2000).pdf>)
 <!-- End Books -->
 
 <!--
