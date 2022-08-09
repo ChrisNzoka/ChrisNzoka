@@ -10,7 +10,6 @@ I’m currently learning and developing my skills in Data Analysis and Business 
 
 - [Google Data Analytics Professsional Certificate](https://www.coursera.org/professional-certificates/devops-and-software-engineering)
 - [Excel Skills for Data Visualisation: University of Macquire](https://www.coursera.org/specializations/excel-data-analytics-visualization)
-- [IBM Data Analytics Professional Certificate](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/),
 - [Master of Science in Data Analytics: Robert Kenedy College](https://www.rkc.swiss/online-msc-data-analytics)
 
 ---
@@ -30,22 +29,22 @@ I’m currently learning and developing my skills in Data Analysis and Business 
 
 ---
 
-### 📕 Latest Blog Posts
+<!-- ### 📕 Latest Blog Posts -->
 
 <!-- To get your github stats to look like mine,
 visit- https://github.com/vn7n24fzkq/github-profile-summary-cards
 and follow the guide -->
 <!-- BLOG-POST-LIST:START -->
 
-- [Linux commands for checking how much space is left on a disk](https://chrisnzoka.hashnode.dev/linux-commands-for-checking-how-much-space-is-left-on-a-disk)
-- [Linux File Permissions](https://chrisnzoka.hashnode.dev/linux-file-permissions)
-- [Operating Systems: The Key Knowledge of the Power User](https://chrisnzoka.hashnode.dev/operating-systems-components-functions-boot-process)
-- [How to Dual Boot Linux on Windows 10](https://chrisnzoka.hashnode.dev/how-to-install-boot-linux-on-windows-10)
-- [How to fix read only USB drive in Ubuntu](https://chrisnzoka.medium.com/how-to-fix-read-only-usb-drive-in-ubuntu-84766a854751)
-- ▶️ [more blog posts...](https://chrisnzoka.hashnode.dev)
+<!-- - [Linux commands for checking how much space is left on a disk](https://chrisnzoka.hashnode.dev/linux-commands-for-checking-how-much-space-is-left-on-a-disk) -->
+<!-- - [Linux File Permissions](https://chrisnzoka.hashnode.dev/linux-file-permissions) -->
+<!-- - [Operating Systems: The Key Knowledge of the Power User](https://chrisnzoka.hashnode.dev/operating-systems-components-functions-boot-process) -->
+<!-- - [How to Dual Boot Linux on Windows 10](https://chrisnzoka.hashnode.dev/how-to-install-boot-linux-on-windows-10) -->
+<!-- - [How to fix read only USB drive in Ubuntu](https://chrisnzoka.medium.com/how-to-fix-read-only-usb-drive-in-ubuntu-84766a854751) -->
+<!-- - ▶️ [more blog posts...](https://chrisnzoka.hashnode.dev) -->
   <!-- BLOG-POST-LIST:END -->
 
----
+<!-- --- -->
 
 ### 📊 My Github Stats
 
@@ -53,25 +52,25 @@ and follow the guide -->
 [![](https://raw.githubusercontent.com/ChrisNzoka/ChrisNzoka/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ChrisNzoka/ChrisNzoka/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ChrisNzoka/ChrisNzoka/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ChrisNzoka/ChrisNzoka/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
----
+<!-- --- -->
 
-### ✨ My Recent Project and Activity
+<!-- ### ✨ My Recent Project and Activity -->
 
-- Developed a [personal portfolio](https://myprofile.chrisnzoka-okoy.repl.co) on Replit
-- Completed the [Google IT Support professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LBPB93VBA5FP)
-- Completed [Technical Writing: Moscow Institute of Physics and Technology](https://www.coursera.org/account/accomplishments/verify/DJDLDXKMT6L7)
+<!-- - Developed a [personal portfolio](https://myprofile.chrisnzoka-okoy.repl.co) on Replit -->
+<!-- - Completed the [Google IT Support professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LBPB93VBA5FP) -->
+<!-- - Completed [Technical Writing: Moscow Institute of Physics and Technology](https://www.coursera.org/account/accomplishments/verify/DJDLDXKMT6L7) -->
 <!--END_SECTION:activity-->
 
----
+<!-- --- -->
 
-### 📕 Current Reads
+<!-- ### 📕 Current Reads -->
 
 <!-- Start Books -->
 
-- [SQL and Relational Theory\_ How to Write Accurate SQL Code, 2nd Edition]()
-- [The Phoenix Project \_ A Novel about IT, DevOps, and Helping Your Business Win](<./Books_and_Documents/The%20Phoenix%20Project%20_%20A%20Novel%20about%20IT%2C%20DevOps%2C%20and%20Helping%20Your%20Business%20Win%20(%20PDFDrive%20).pdf>)
-- [The_Linux_Command_Line_by_William_Shotts](./Books_and_Documents/The_Linux_Command_Line_by_William_Shotts.pdf)
-- [The Feynman Technique\_ The Best Way to Learn Anything - Farnam Street](./Books_and_Documents/The%20Feynman%20Technique_%20The%20Best%20Way%20to%20Learn%20Anything%20-%20Farnam%20Street.pdf)
+<!-- - [SQL and Relational Theory\_ How to Write Accurate SQL Code, 2nd Edition]() -->
+<!-- - [The Phoenix Project \_ A Novel about IT, DevOps, and Helping Your Business Win](<./Books_and_Documents/The%20Phoenix%20Project%20_%20A%20Novel%20about%20IT%2C%20DevOps%2C%20and%20Helping%20Your%20Business%20Win%20(%20PDFDrive%20).pdf>) -->
+<!-- - [The_Linux_Command_Line_by_William_Shotts](./Books_and_Documents/The_Linux_Command_Line_by_William_Shotts.pdf) -->
+<!-- - [The Feynman Technique\_ The Best Way to Learn Anything - Farnam Street](./Books_and_Documents/The%20Feynman%20Technique_%20The%20Best%20Way%20to%20Learn%20Anything%20-%20Farnam%20Street.pdf) -->
 <!-- End Books -->
 
 <!--
