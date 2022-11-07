@@ -2,15 +2,16 @@
 
 <a href="https://twitter.com/chrisnzoka" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/chris-nzoka-okoye/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="https://chrisnzoka.hashnode.dev" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/hashnode-%232962FF.svg?&style=flat&logo=hashnode&logoColor=white" /></a>
 <br/>
 
-I am an IT Support Specialist, Linux System Administrator, and Technical writer.
-I’m currently learning and developing my skills in Linux System Administration, DevOps Engineering, and Technical Writing with:
+I am a Software Engineer, Linux Sysadmin, and Technical writer. I’m constantly
+learning and developing my skills in Linux System Administration, Software
+Engineering, and Technical Writing with:
 
 - [The Linux Foundation's LFCS](https://trainingportal.linuxfoundation.org/learn/dashboard)
-- [IBM DevOps Engineering Professsional Certificate](https://www.coursera.org/professional-certificates/devops-and-software-engineering)
-- [Master of Science in Computer and International Business: Robert Kenedy College](https://www.rkc.swiss/online-msc-computer-science-international-business)
+- [Coursera](https://www.coursera.org)
+- [Freecodecamp](https://www.freecodecamp.org/learn/)
+- [Traversy Media](https://www.youtube.com/c/TraversyMedia)
 
 ---
 
@@ -18,8 +19,22 @@ I’m currently learning and developing my skills in Linux System Administration
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <p>
-<!-- <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="SQL" width="50" height="50"/>--> <img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://www.svgrepo.com/show/303263/css3-logo.svg" alt="CSS3 Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-2.svg" alt="Ubuntu" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/red-hat-1.svg" alt="RedHat" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/> <img src="https://www.svgrepo.com/show/354237/pycharm.svg" alt="Pycharm" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon.svg" alt="wordpress icon" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira" width="50" height="50"/>
-<!-- 
+<!-- <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="SQL" width="50" height="50"/>--> <img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://www.svgrepo.com/show/303263/css3-logo.svg" alt="CSS3 Logo" width="50" height="50"/>
+
+SASS Bootstrap jquery Javascript React Redux
+
+<img src="https://cdn.worldvectorlogo.com/logos/ubuntu-2.svg" alt="Ubuntu" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/red-hat-1.svg" alt="RedHat" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/>
+
+Django
+
+<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon.svg" alt="wordpress icon" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira" width="50" height="50"/>
+
+<!--
 -------------------------------------- UNCOMMENT AS I LEARN ----------------------------------------
 <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/heroku-1.svg" alt="Heroku logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" alt="Jenkins Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/red-hat-1.svg" alt="RedHat" width="50" height="50"/>
@@ -49,17 +64,22 @@ and follow the guide -->
 ### 📊 My Github Stats
 
 [![](https://raw.githubusercontent.com/ChrisNzoka/ChrisNzoka/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/ChrisNzoka/ChrisNzoka/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ChrisNzoka/ChrisNzoka/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/ChrisNzoka/ChrisNzoka/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ChrisNzoka/ChrisNzoka/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ChrisNzoka/ChrisNzoka/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ChrisNzoka/ChrisNzoka/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ChrisNzoka/ChrisNzoka/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ChrisNzoka/ChrisNzoka/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <!-- --- -->
 
 ### ✨ My Recent Project and Activity
 
 - Preparing for The Linux Foundation's LFCS certification
-- Developed a [personal portfolio](https://myprofile.chrisnzoka-okoy.repl.co) on Replit
-- Completed the [Google IT Support professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LBPB93VBA5FP)
-- Completed [Technical Writing: Moscow Institute of Physics and Technology](https://www.coursera.org/account/accomplishments/verify/DJDLDXKMT6L7)
+- Developed a [personal portfolio](https://myprofile.chrisnzoka-okoy.repl.co) on
+  Replit
+- Completed the
+  [Google IT Support professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LBPB93VBA5FP)
+- Completed
+[Technical Writing: Moscow Institute of Physics and Technology](https://www.coursera.org/account/accomplishments/verify/DJDLDXKMT6L7)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
