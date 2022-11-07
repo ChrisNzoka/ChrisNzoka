@@ -71,7 +71,7 @@ and follow the guide -->
 
 <!-- --- -->
 
-### ✨ My Recent Project and Activity
+### ✨ Recent Projects and Activities
 
 - Preparing for The Linux Foundation's LFCS certification
 - Developed a [personal portfolio](https://myprofile.chrisnzoka-okoy.repl.co) on
@@ -79,7 +79,11 @@ and follow the guide -->
 - Completed the
   [Google IT Support professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LBPB93VBA5FP)
 - Completed
-[Technical Writing: Moscow Institute of Physics and Technology](https://www.coursera.org/account/accomplishments/verify/DJDLDXKMT6L7)
+  [Technical Writing: Moscow Institute of Physics and Technology](https://www.coursera.org/account/accomplishments/verify/DJDLDXKMT6L7)
+- Started the
+  [Meta backend developer professional certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer)
+- Developed a [website](https://github.com/ChrisNzoka/Alpha_website) for a web
+and network service provision firm
 <!--END_SECTION:activity-->
 
 <!-- --- -->
