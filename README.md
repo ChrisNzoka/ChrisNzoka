@@ -23,16 +23,11 @@ Engineering, and Technical Writing with:
 
 SASS Bootstrap jquery Javascript React Redux
 
-<img src="https://cdn.worldvectorlogo.com/logos/ubuntu-2.svg" alt="Ubuntu" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/red-hat-1.svg" alt="RedHat" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/ubuntu-2.svg" alt="Ubuntu" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/red-hat-1.svg" alt="RedHat" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/>
 
 Django
 
-<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon.svg" alt="wordpress icon" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon.svg" alt="wordpress icon" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira" width="50" height="50"/>
 
 <!--
 -------------------------------------- UNCOMMENT AS I LEARN ----------------------------------------
