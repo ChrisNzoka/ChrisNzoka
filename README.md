@@ -27,7 +27,12 @@ Engineering, and Technical Writing with:
 <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgreSQL" width="50" height="50"/>-->
 
-<img src="https://cdn.worldvectorlogo.com/logos/ubuntu-2.svg" alt="Ubuntu" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/red-hat-1.svg" alt="RedHat" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon.svg" alt="wordpress icon" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/ubuntu-2.svg" alt="Ubuntu" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/red-hat-1.svg" alt="RedHat" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon.svg" alt="wordpress icon" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira" width="50" height="50"/>
 
 <!--
 -------------------------------------- UNCOMMENT AS I LEARN ----------------------------------------
@@ -48,6 +53,7 @@ and follow the guide -->
 - [Linux commands for checking how much space is left on a disk](https://chrisnzoka.hashnode.dev/linux-commands-for-checking-how-much-space-is-left-on-a-disk)
 
   <!-- BLOG-POST-LIST:END -->
+
 ### 📊 My Github Stats
 
 [![](https://raw.githubusercontent.com/ChrisNzoka/ChrisNzoka/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -60,7 +66,9 @@ and follow the guide -->
 
 ### ✨ Recent Project
 
-- A digital Resume for Web Developers with light and dark mode. You may view the [live demo](https://chrisnzoka.github.io/Resume/) and the [source code](https://github.com/ChrisNzoka/Resume)
+- A digital Resume for Web Developers with light and dark mode. You may view the
+  [live demo](https://chrisnzoka.github.io/Resume/) and the
+  [source code](https://github.com/ChrisNzoka/Resume)
 
 <!--END_SECTION:activity-->
 
