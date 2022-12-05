@@ -54,6 +54,8 @@ and follow the guide -->
 
   <!-- BLOG-POST-LIST:END -->
 
+---
+
 ### 📊 My Github Stats
 
 [![](https://raw.githubusercontent.com/ChrisNzoka/ChrisNzoka/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -62,7 +64,7 @@ and follow the guide -->
 [![](https://raw.githubusercontent.com/ChrisNzoka/ChrisNzoka/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ChrisNzoka/ChrisNzoka/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<!-- --- -->
+---
 
 ### ✨ Recent Project
 
@@ -72,7 +74,7 @@ and follow the guide -->
 
 <!--END_SECTION:activity-->
 
-<!-- --- -->
+---
 
 ### 📕 Current Reads
 
