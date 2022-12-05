@@ -19,20 +19,19 @@ Engineering, and Technical Writing with:
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <p>
-<!-- <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="SQL" width="50" height="50"/>--> <img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://www.svgrepo.com/show/303263/css3-logo.svg" alt="CSS3 Logo" width="50" height="50"/>
+<img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://www.svgrepo.com/show/303263/css3-logo.svg" alt="CSS3 Logo" width="50" height="50"/> <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" alt="Bootstrap Logo" width="50" height="50"/>
 
-SASS Bootstrap jquery Javascript React Redux
+<!-- <img src="https://www.svgrepo.com/show/355081/js.svg" alt="Javascript Logo" width="50" height="50"/> <img src="https://www.svgrepo.com/show/374032/reactjs.svg" alt="React Logo" width="50" height="50"/> <img src="https://www.svgrepo.com/show/354274/redux.svg" alt="Redux Logo" width="50" height="50"/> -->
 
-<img src="https://cdn.worldvectorlogo.com/logos/ubuntu-2.svg" alt="Ubuntu" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/red-hat-1.svg" alt="RedHat" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/>
+<!-- <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django Logo" width="50" height="50"/>
+<img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgreSQL" width="50" height="50"/>-->
 
-Django
-
-<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon.svg" alt="wordpress icon" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/ubuntu-2.svg" alt="Ubuntu" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/red-hat-1.svg" alt="RedHat" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon.svg" alt="wordpress icon" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira" width="50" height="50"/>
 
 <!--
 -------------------------------------- UNCOMMENT AS I LEARN ----------------------------------------
-<img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/heroku-1.svg" alt="Heroku logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" alt="Jenkins Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/red-hat-1.svg" alt="RedHat" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/heroku-1.svg" alt="Heroku logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" alt="Jenkins Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker Logo" width="50" height="50"/>
 <img src="" alt="" width="50" height="50"/>
  -->
 </p>
@@ -47,15 +46,8 @@ and follow the guide -->
 <!-- BLOG-POST-LIST:START -->
 
 - [Linux commands for checking how much space is left on a disk](https://chrisnzoka.hashnode.dev/linux-commands-for-checking-how-much-space-is-left-on-a-disk)
-- [Linux File Permissions](https://chrisnzoka.hashnode.dev/linux-file-permissions)
-<!-- - [Operating Systems: The Key Knowledge of the Power User](https://chrisnzoka.hashnode.dev/operating-systems-components-functions-boot-process) -->
-- [How to Dual Boot Linux on Windows 10](https://chrisnzoka.hashnode.dev/how-to-install-boot-linux-on-windows-10)
-<!-- - [How to fix read only USB drive in Ubuntu](https://chrisnzoka.medium.com/how-to-fix-read-only-usb-drive-in-ubuntu-84766a854751) -->
-- ▶️ [more blog posts...](https://chrisnzoka.hashnode.dev)
+
   <!-- BLOG-POST-LIST:END -->
-
-<!-- --- -->
-
 ### 📊 My Github Stats
 
 [![](https://raw.githubusercontent.com/ChrisNzoka/ChrisNzoka/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -66,19 +58,10 @@ and follow the guide -->
 
 <!-- --- -->
 
-### ✨ Recent Projects and Activities
+### ✨ Recent Project
 
-- Preparing for The Linux Foundation's LFCS certification
-- Developed a [personal portfolio](https://myprofile.chrisnzoka-okoy.repl.co) on
-  Replit
-- Completed the
-  [Google IT Support professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LBPB93VBA5FP)
-- Completed
-  [Technical Writing: Moscow Institute of Physics and Technology](https://www.coursera.org/account/accomplishments/verify/DJDLDXKMT6L7)
-- Started the
-  [Meta backend developer professional certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer)
-- Developed a [website](https://github.com/ChrisNzoka/Alpha_website) for a web
-and network service provision firm
+- A digital Resume for Web Developers with light and dark mode. You may view the [live demo](https://chrisnzoka.github.io/Resume/) and the [source code](https://github.com/ChrisNzoka/Resume)
+
 <!--END_SECTION:activity-->
 
 <!-- --- -->
