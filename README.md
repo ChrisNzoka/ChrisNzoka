@@ -4,10 +4,7 @@
 <a href="https://www.linkedin.com/in/chris-nzoka-okoye/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
 <br/>
 
-I am a Banker and Technical writer. Also, I am a certified Commercial Banking & Credit Analyst (CBCA)®. I’m currently learning and developing my skills in Technical writing, Banking, Business intelligence and data analysis with:
-
-- [Corporate Finance Institute](https://corporatefinanceinstitute.com/)
-- [Coursera](https://www.coursera.org)
+I am a Banker, Technical writer and Data Science enthusiast. I’m currently learning and developing my skills in data analysis and data science.
 
 ---
 
