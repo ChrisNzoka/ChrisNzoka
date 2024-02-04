@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/chris-nzoka-okoye/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
 <br/>
 
-I am a Banker, Technical writer and Data Science enthusiast. I’m currently learning and developing my skills in data analysis and data science.
+I am a Banker, Technical writer, and Data Science enthusiast. I’m learning and developing my data analysis and data science skills.
 
 ---
 
@@ -35,17 +35,17 @@ I am a Banker, Technical writer and Data Science enthusiast. I’m currently lea
 </p>
 
 ---
-
+<!--
 ### 📕 Latest Blog Posts
 
 <!-- To get your github stats to look like mine,
 visit- https://github.com/vn7n24fzkq/github-profile-summary-cards
 and follow the guide -->
-<!-- BLOG-POST-LIST:START -->
+ BLOG-POST-LIST:START 
 
 - [Linux commands for checking how much space is left on a disk](https://chrisnzoka.hashnode.dev/linux-commands-for-checking-how-much-space-is-left-on-a-disk)
-
-  <!-- BLOG-POST-LIST:END -->
+-->
+<!-- 
 
 ---
 
@@ -57,6 +57,7 @@ and follow the guide -->
 [![](https://raw.githubusercontent.com/ChrisNzoka/ChrisNzoka/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ChrisNzoka/ChrisNzoka/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+-->
 ---
 
 ### ✨ Recent Project
