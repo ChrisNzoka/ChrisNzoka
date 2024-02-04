@@ -38,9 +38,10 @@ I am a Banker, Technical writer, and Data Science enthusiast. I’m learning and
 <!--
 ### 📕 Latest Blog Posts
 
-<!-- To get your github stats to look like mine,
+ To get your github stats to look like mine,
 visit- https://github.com/vn7n24fzkq/github-profile-summary-cards
 and follow the guide -->
+<!--
  BLOG-POST-LIST:START 
 
 - [Linux commands for checking how much space is left on a disk](https://chrisnzoka.hashnode.dev/linux-commands-for-checking-how-much-space-is-left-on-a-disk)
