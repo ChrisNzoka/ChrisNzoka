@@ -34,7 +34,6 @@ I am a Banker, Technical writer, and Data Science enthusiast. I’m learning and
  -->
 </p>
 
----
 <!--
 ### 📕 Latest Blog Posts
 
