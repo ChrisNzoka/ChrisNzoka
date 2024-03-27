@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/chris-nzoka-okoye/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
 <br/>
 
-I am a Banker, Technical writer, and Data Science enthusiast. I’m learning and developing my data analysis and data science skills.
+Certified Data Analyst. Constantly learning and developing analytical and data science skills.
 
 ---
 
@@ -62,7 +62,7 @@ and follow the guide -->
 
 ### ✨ Recent Project
 
-- A digital Resume for Web Developers with light and dark mode. You may view the
+- My personally designed Web Resume with light and dark mode. You may view the
   [live demo](https://chrisnzoka.github.io/Resume/) and the
   [source code](https://github.com/ChrisNzoka/Resume)
 
@@ -79,6 +79,7 @@ and follow the guide -->
 - [The Phoenix Project \_ A Novel about IT, DevOps, and Helping Your Business Win](<./Books_and_Documents/The%20Phoenix%20Project%20_%20A%20Novel%20about%20IT%2C%20DevOps%2C%20and%20Helping%20Your%20Business%20Win%20(%20PDFDrive%20).pdf>)
 - [The_Linux_Command_Line_by_William_Shotts](./Books_and_Documents/The_Linux_Command_Line_by_William_Shotts.pdf)
 - [The Feynman Technique\_ The Best Way to Learn Anything - Farnam Street](./Books_and_Documents/The%20Feynman%20Technique_%20The%20Best%20Way%20to%20Learn%20Anything%20-%20Farnam%20Street.pdf)
+- [Getting Started with SQL by Thomas Nield]
 <!-- End Books -->
 
 <!--
