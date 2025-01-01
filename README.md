@@ -17,10 +17,10 @@ Creating with Flutter and dart...
  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="PowerBI" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> -->
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://www.svgrepo.com/svg/353884/html-5.svg" alt="HTML Logo" width="50" height="50"/>
-<img src="https://www.svgrepo.com/svg/353623/css-3.svg" alt="CSS3 Logo" width="50" height="50"/>
-<img src="https://www.svgrepo.com/svg/376318/flutter.svg" alt="Flutter Logo" width="50" height="50"/>
-<img src="https://www.svgrepo.com/svg/376360/dart.svg" alt="Dart Logo" width="50" height="50"/>
+<img src="https://www.svgrepo.com/show/353884/html-5.svg" alt="HTML Logo" width="50" height="50"/>
+<img src="https://www.svgrepo.com/show/353623/css-3.svg" alt="CSS3 Logo" width="50" height="50"/>
+<img src="https://www.svgrepo.com/show/376318/flutter.svg" alt="Flutter Logo" width="50" height="50"/>
+<img src="https://www.svgrepo.com/show/376360/dart.svg" alt="Dart Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="Excel" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>
