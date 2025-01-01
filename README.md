@@ -19,7 +19,7 @@ Creating with Flutter and dart...
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="HTML Logo" width="50" height="50"/>
 <img src="https://www.svgrepo.com/show/303263/css3-logo.svg" alt="CSS3 Logo" width="50" height="50"/>
-<img src="https://www.svgrepo.com/show/373604/flutter-logo.svg" alt="Flutter Logo" width="50" height="50"/>
+<img src="https://www.svgrepo.com/show/373604/flutter.svg" alt="Flutter Logo" width="50" height="50"/>
 
 <img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="Excel" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/>
