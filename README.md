@@ -4,27 +4,29 @@
 <a href="https://www.linkedin.com/in/chris-nzoka-okoye/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
 <br/>
 
-Certified Data Analyst. Constantly learning and developing analytical and data science skills.
-
+Creating with Flutter and dart...
 ---
 
 ### ⚙ ️Languages and tools
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <p>
- <img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="Excel" width="50" height="50"/>
- <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="MySQL Logo" width="50" height="50"/>
+
+ <!-- <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="MySQL Logo" width="50" height="50"/>
  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="50" height="50"/>
  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="PowerBI" width="50" height="50"/>
-<!-- <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> -->
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> -->
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="HTML Logo" width="50" height="50"/>
 <img src="https://www.svgrepo.com/show/303263/css3-logo.svg" alt="CSS3 Logo" width="50" height="50"/>
+<img src="https://www.svgrepo.com/show/373604/flutter-logo.svg" alt="Flutter Logo" width="50" height="50"/>
+
+<img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="Excel" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon.svg" alt="wordpress icon" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/powerpoint-2.svg" alt="PowerPoint" width="50" height="50"/>
+
 
 </p>
 
