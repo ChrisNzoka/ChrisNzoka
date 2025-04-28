@@ -30,11 +30,6 @@ Certified Developer. Thanks to Freecodecamp and YouTube videos...
 
 <!--
 ### 📕 Latest Blog Posts
-
- To get your github stats to look like mine,
-visit- https://github.com/vn7n24fzkq/github-profile-summary-cards
-and follow the guide -->
-<!--
  BLOG-POST-LIST:START 
 
 - [Linux commands for checking how much space is left on a disk](https://chrisnzoka.hashnode.dev/linux-commands-for-checking-how-much-space-is-left-on-a-disk)
@@ -43,11 +38,11 @@ and follow the guide -->
 ---
 
 ### ✨ Recent Project
-- Customer churn Analysis for Databel using Microsoft Excel [Repo](https://github.com/ChrisNzoka/PROJECT-Databel_Customer_Churn)
-- [SQL Analytics projects](https://github.com/ChrisNzoka/SQL_analytics_projects): A group of datasets prepared, cleaned and analyzed using PostgreSQl on MySQL database
 - My personally designed Web Resume with light and dark mode. You may view the
   [live demo](https://chrisnzoka.github.io/Resume/) and the
   [source code](https://github.com/ChrisNzoka/Resume)
+- Customer churn Analysis for Databel using Microsoft Excel [Repo](https://github.com/ChrisNzoka/PROJECT-Databel_Customer_Churn)
+- [SQL Analytics projects](https://github.com/ChrisNzoka/SQL_analytics_projects): A group of datasets prepared, cleaned and analyzed using PostgreSql on MySQL database
 
 <!--END_SECTION:activity-->
 
