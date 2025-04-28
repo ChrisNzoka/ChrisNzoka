@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/chris-nzoka-okoye/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
 <br/>
 
-Certified Fullstack Developer. Thanks to Freecodecamp and YouTube videos...
+Certified Developer. Thanks to Freecodecamp and YouTube videos...
 ---
 
 ### ⚙ ️Languages and tools
@@ -12,7 +12,7 @@ Certified Fullstack Developer. Thanks to Freecodecamp and YouTube videos...
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <p>
 
- <!-- <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="MySQL Logo" width="50" height="50"/>
+  <!--<img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="MySQL Logo" width="50" height="50"/>
  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="50" height="50"/>
  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="PowerBI" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> -->
@@ -20,8 +20,6 @@ Certified Fullstack Developer. Thanks to Freecodecamp and YouTube videos...
 <img src="https://www.svgrepo.com/show/353884/html-5.svg" alt="HTML Logo" width="50" height="50"/>
 <img src="https://www.svgrepo.com/show/353623/css-3.svg" alt="CSS3 Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="Excel" width="50" height="50"/>
-<img src="https://www.svgrepo.com/show/376318/flutter.svg" alt="Flutter Logo" width="50" height="50"/>
-<img src="https://www.svgrepo.com/show/376360/dart.svg" alt="Dart Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira" width="50" height="50"/>
