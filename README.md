@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/chris-nzoka-okoye/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
 <br/>
 
-Certified Developer. Thanks to Freecodecamp and YouTube videos...
+I am learning to code. Thanks to Freecodecamp and YouTube videos...
 ---
 
 ### ⚙ ️Languages and tools
